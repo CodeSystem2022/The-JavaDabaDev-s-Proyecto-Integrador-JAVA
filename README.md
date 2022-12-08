@@ -1,6 +1,6 @@
 # The-JavaDabaDev-s-Proyecto-Integrador-JAVA
 Proyecto Integrador de PSeInt traducido a Java
-Grupo: The JavaDabaDev's
+del Grupo: "The JavaDabaDev's"
 
 Intregrantes: (9)
 
